@@ -22,3 +22,7 @@ $ npm run build
 # run test
 $ npm run test
 ```
+
+## Private packages
+
+If this module with private packages, you can get it by edit [.npmrc](./.npmrc) & [.github/workflows/*.yml](.github/workflows).
