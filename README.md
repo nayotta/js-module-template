@@ -2,7 +2,7 @@
 
 [![Lint and Build](https://github.com/nayotta/ts-module-template/actions/workflows/lint-build.yml/badge.svg)](https://github.com/nayotta/ts-module-template/actions/workflows/lint-build.yml)[![Node.js Package](https://github.com/nayotta/ts-module-template/actions/workflows/release.yml/badge.svg)](https://github.com/nayotta/ts-module-template/actions/workflows/release.yml)
 
-> A simple typescript module template with eslint & github action
+> A simple typescript es module template with eslint & github action
 
 ## Build Setup
 
